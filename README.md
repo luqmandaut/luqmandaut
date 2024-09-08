@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @luqmandaut
-- 👀 I’m interested in business ...
-- 🌱 I’m currently learning github...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# LUQMAN BIN DAUT
 
-<!---
-luqmandaut/luqmandaut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MISSION#333#VISSION
+**A passionate software developer with a focus on full-stack web development.**
+
+**Skills:**
+* JavaScript
+* Python
+* React
+* Node.js
+* SQL
+
+**Projects:**
+* **E-commerce Website:** Built a scalable e-commerce platform using React and Node.js.
+* **Personal Portfolio:** Created a dynamic personal website to showcase my skills and projects.
+
+**Career Goals:**
+* To become a skilled full-stack developer and contribute to innovative projects.
+* To learn new technologies and stay up-to-date with industry trends.
+
+**Contact:**
+* Email: luqmandaut8@duck.com
+* LinkedIn: [Luqmandaut(MRluq)]               * TWITTER : MRLUQ
